@@ -24,7 +24,7 @@ By this time your project is set up. Now is time to see how beautiful it is when
 - Open another terminal and hit the 'Endpoint 1' with a web page as a parameter. The API will open it, take the URL you passed in and also will take all the H1, H2, H3 and links from the page and store everything in the database.
 - Now is time to hit 'Endpoint 2' in order to retrieve all the information stored in the database.
 
-You can always send a message to me if you need some support :)
+You can always send me a message if you need some support ```:)```
 
 Alejandro Alvarez
 Software Engineer & Ruby on Rails dev
