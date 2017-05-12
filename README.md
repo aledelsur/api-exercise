@@ -26,5 +26,5 @@ By this time your project is set up. Now is time to see how beautiful it is when
 
 You can always send a message to me if you need some support :)
 
-```Alejandro Alvarez
-Software Engineer & Ruby on Rails dev```
+Alejandro Alvarez
+Software Engineer & Ruby on Rails dev
