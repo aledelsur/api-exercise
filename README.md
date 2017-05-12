@@ -20,7 +20,7 @@ How to set up the project locally:
 
 By this time your project is set up. Now is time to see how beautiful it is when you run it :)
 
-- Open a terminal, go to the project's path and run ```rails s``` for the project to run in ```http://localhost:3000```
+- Open a terminal, change the current working directory to your local project and run ```rails s``` for the project to run in ```http://localhost:3000```
 - Open another terminal and hit the 'Endpoint 1' with a web page as a parameter. The API will open it, take the URL you passed in and also will take all the H1, H2, H3 and links from the page and store everything in the database.
 - Now is time to hit 'Endpoint 2' in order to retrieve all the information stored in the database.
 
