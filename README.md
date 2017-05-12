@@ -24,6 +24,9 @@ By this time your project is set up. Now is time to see how beautiful it is when
 - Open another terminal and hit the 'Endpoint 1' with a web page as a parameter. The API will open it, take the URL you passed in and also will take all the H1, H2, H3 and links from the page and store everything in the database.
 - Now is time to hit 'Endpoint 2' in order to retrieve all the information stored in the database.
 
+The API was built using the gems ```Grape``` and ```GrapeEntity```. They are awesome gems to build the endpoints and expose the responses.
+
+
 You can always send me a message if you need some support ```:)```
 
 Alejandro Alvarez
