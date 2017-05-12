@@ -6,8 +6,8 @@ Endpoint 1 - The client makes a POST request specifying a web page like www.goog
 Endpoint 2 - The client makes a GET request and it will retrieve from the database all the URLs stored with all the H1, H2, H3 and links associated with it.
 
 How to use the API:
-- You can call Endpoint 1 from the terminal by just doing curl -d "page_url=http://www.twitter.com" -X POST http://localhost:3000/api/v1/pages
-- You can call Endpoint 2 from the terminal by running curl http://localhost:3000/api/v1/pages
+- You can call Endpoint 1 from the terminal by just doing ```curl -d "page_url=http://www.twitter.com" -X POST http://localhost:3000/api/v1/pages```
+- You can call Endpoint 2 from the terminal by running ```curl http://localhost:3000/api/v1/pages```
   
 How to set up the project locally:
 - clone the repository
